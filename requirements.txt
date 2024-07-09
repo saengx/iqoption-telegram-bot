@@ -17,7 +17,7 @@ python-dateutil
 python-telegram-bot
 pytz
 requests
-Rust
+Rust==1.63.0
 six
 toml
 tornado
