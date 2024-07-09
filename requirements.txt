@@ -17,6 +17,7 @@ python-dateutil
 python-telegram-bot
 pytz
 requests
+Rust
 six
 toml
 tornado
